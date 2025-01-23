@@ -1,2 +1,2 @@
 # operating-systems
-![Description](cover.png)
+![Description](public/cover.png)
